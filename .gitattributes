@@ -1,0 +1,9 @@
+# Normalize line endings
+# Exclude build artifacts
+# Generated on 2026-11-15
+src/** linguist-detectable
+
+docs/*.html linguist-vendored
+*.ts linguist-detectable
+dist/* linguist-vendored
+*.ico binary
