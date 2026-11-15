@@ -1,0 +1,5 @@
+.env.local
+build/
+*.tgz
+npm-debug.log*
+coverage/
